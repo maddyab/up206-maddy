@@ -1,0 +1,3 @@
+#FEMA's National Risk Index provides county level information on climate risk and social vulnerability at national level.
+#I downloaded the California data as an example, but it likely wouldn't make sense to use this over CalEnviroscreen unless comparing or looking beyond the state.
+#The data can be found at [FEMA Risk Index Website](https://hazards.fema.gov/nri/data-resources#spatialTribal).
