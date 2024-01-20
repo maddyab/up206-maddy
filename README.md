@@ -1,4 +1,4 @@
-# up206-maddy 
+# up221-maddy 
 This is a student repository from UP221: Introduction to GIS and Spatial Data Science at UCLA with an introduction to python.
 I am a second year urban planning student with concentrations in design and the environment.
 I am interested in having projects and a learning community to practice python. I had done some self-guided learning in the past, but it felt too theoretical disconnected from being able to apply it to statistical or map analyses. I also was never really a fan of ArcGIS so am curious if I'll like this method.
